@@ -39,15 +39,6 @@ El sistema sigue las siguientes etapas:
 
 ---
 
-## 🗂️ Estructura del Proyecto
-
-Activity3.3/
-│
-├── calib/              # Imágenes de calibración (checkerboard)
-├── images/             # Imágenes para generar el mapa
-├── main.py             # Script principal
-└── README.md           # Documentación
-
 ---
 
 ## 🚀 Instalación
