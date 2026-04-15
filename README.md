@@ -79,12 +79,6 @@ El proyecto se basa en fotogrametría 2D, donde una escena plana se reconstruye 
 
 ---
 
-## 📄 Reflexión
-
-Durante esta actividad se identificaron diversos retos, principalmente relacionados con la calidad de las imágenes y el traslape entre ellas. La detección de características depende en gran medida de la textura de la superficie, por lo que escenas uniformes dificultan el proceso. Además, se observó que el uso del Stitcher de OpenCV mejora significativamente la consistencia geométrica frente a métodos manuales. Finalmente, se concluye que la calidad de los datos de entrada es determinante en el desempeño del pipeline.
-
----
-
 ## 👨‍💻 Autor
 Diego López  
 ITESM – Ingeniería en Robótica y Sistemas Digitales
